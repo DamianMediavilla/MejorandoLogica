@@ -1,6 +1,8 @@
 # MejorandoLogica
 
-Repositorio creado con el fin de practicar distintos algoritmos y mejorar la logica de nuestra programacion.- 
+Repositorio creado con el fin de practicar distintos algoritmos y mejorar la logica de nuestra programacion.-
+
+[GrupoDiscord](https://discord.gg/9Grm9S5V)
 
 ## Indice
 - [Ejercicio 001](/Ejercicio%20001/README.md) - *Piedra, Papel, Tijera, Lagarto, Spock*
