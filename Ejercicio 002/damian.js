@@ -1,4 +1,4 @@
-morseCode = '.... . -.--   .--- ..- -.. .'
+morseCode = '    .... . -.--   .--- ..- -.. .'
 decodeMorse = function(morseCode){
     // Your code here
     // You can use MORSE_CODE[morse]
@@ -35,5 +35,3 @@ decodeMorse = function(morseCode){
     return mensajeS.trim().toString()
     
   }
-  
-  
